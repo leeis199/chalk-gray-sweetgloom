@@ -1,0 +1,7 @@
+interface:
+  display_name: "粉笔灰纸甜丧插画"
+  short_description: "把角色、照片或主题转成灰调粉笔手绘甜丧 Q 版插画"
+  default_prompt: "使用 $chalk-gray-sweetgloom 帮我完成……"
+
+policy:
+  allow_implicit_invocation: true
